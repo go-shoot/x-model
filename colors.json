@@ -398,6 +398,26 @@
         "main.Rp": ["#4d0038"],
         "ratchet.0-80": ["#020202","#060606"]
     },
+    "BX52": {
+        "bit.LC": ["#000026"],
+        "blade.LsDg": ["#09001e"],
+        "ratchet.6-60": ["#d0dee2","#4d0002"]
+    },
+    "BX53_01": {
+        "bit.A": ["#008bcc"],
+        "blade.ArPg": ["#010221","#eaeaea"],
+        "ratchet.3-70": ["#ffffff","#000018"]
+    },
+    "BX53_02": {
+        "bit.B": ["#dab400"],
+        "blade.WzAr2": ["#d08e00"],
+        "ratchet.4-80": ["#e45400"]
+    },
+    "BX53_03": {
+        "bit.N": ["#00fa01"],
+        "blade.KnSh2": ["#005500"],
+        "ratchet.3-80": ["#00371d"]
+    },
     "BXC01": {
         "blade.PhFt": ["#830001"]
     },
@@ -467,6 +487,13 @@
         "bit.S": ["#0eb3ff","#b9a812"],
         "blade.ClMr": ["#010101","#c6ff1d"],
         "ratchet.4-55": ["#001340"]
+    },
+    "BXC21": {
+        "assist.K": ["#000339"],
+        "bit.TK": ["#ffffff","#8b0019"],
+        "chip.Kd": ["#ffffff"],
+        "main.Hn": ["#d5d5d5","#001083"],
+        "ratchet.4-70": ["#ffffff","#eaeaea"]
     },
     "BXG01": {
         "bit.T": ["#010093"],
@@ -778,6 +805,14 @@
         "assist.T": ["#050018","#6b6b6b"],
         "chip.Tg": ["#6b6b6b"],
         "over.F": ["#5e0000"]
+    },
+    "BXG71_01": {
+        "bit.DB": ["#010226","#0a0a0a"],
+        "blade.BsBr": ["#d4e2e3"]
+    },
+    "BXG71_02": {
+        "bit.DB": ["#00392c","#30b001"],
+        "blade.BsBr": ["#bfc4c4","#00000a"]
     },
     "BXG79": {
         "assist.R": ["#7c7c7c"],
